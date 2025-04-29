@@ -2,6 +2,7 @@
 DreamyWeatherFX brings a peaceful, animated rain and snow experience directly to your Mac desktop. It’s lightweight and minimalistic, designed to make your workspace feel more alive without getting in your way.
 
 ✨ Features
+
 ☔ Dreamy animated rain and snow effects on your desktop
 
 🖱️ Interactive cursor: Gently swirl particles as you move
