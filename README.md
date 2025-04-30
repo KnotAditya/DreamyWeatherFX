@@ -24,6 +24,8 @@ Drag and drop DreamyWeatherFX.app into your Applications folder.
 
 Right-click the app > Open (only needed the first time to bypass Gatekeeper).
 
+Go to settings > Privacy and Security > Security and press allow for the file and type in your password to bypass GateKeepeer
+
 ✅ No App Store needed.
 ✅ No account needed.
 ✅ Just peaceful weather on your desktop.
